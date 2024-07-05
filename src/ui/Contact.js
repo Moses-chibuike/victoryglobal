@@ -123,7 +123,7 @@ const Contact = () => {
                   <i className="bi bi-phone flex-shrink-0"></i>
                   <div>
                     <h4>Call:</h4>
-                    <p>+91 - 44 - 4208 2102</p>
+                    <p>+233 - 72 - 632 722</p>
                   </div>
                 </div>
               </div>
